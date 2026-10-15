@@ -1,0 +1,16 @@
+Harry Potter|F001|J.K. Rowling|Fantasy|Bloomsbury|1997|true
+The Hobbit|F002|J.R.R. Tolkien|Fantasy|Allen & Unwin|1937|true
+Sapiens|H001|Yuval Harari|History|Harper|2011|true
+Omniscient Reader's Viewpoint|A001|Sing Shong|Action|Ize Press|2018|true
+The Art of War|H002|Sun Tzu|History|Shambhala|2005|true
+The Great Gatsby|FI001|F. Scott Fitzgerald|Fiction|Scribner|1925|false
+Jurassic Park|S001|Michael Crichton|Science|Knopf|1990|true
+Steve Jobs|B001|Walter Isaacson|Biography|Simon & Schuster|2011|true
+To Kill a Mockingbird|FI002|Harper Lee|Fiction|J.B. Lippincott|1960|true
+The Bourne Identity|A002|Robert Ludlum|Action|Richard Marek Publishers|1980|false
+The Da Vinci Code|A003|Dan Brown|Action|Doubleday|2003|true
+New Book|F001|Mysterius|Fantasy|Mighty Eagle|2003|true
+King Leopold's Ghost |H001|Adam Hochschild|History|Houghton Mifflin|1998|true
+Yesteryear|FI001|Caro Claire Burke|Fiction|GMA Book Club Pick|2026|true
+Im brave|FI003|Alan Smith|Fiction|Jaden & Tom|2010|true
+Alice in Wonderland|FI004|Lewis Carroll|Fiction|Macmillon|1999|true
